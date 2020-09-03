@@ -1,1 +1,3 @@
 register function
+
+perubahan 1
