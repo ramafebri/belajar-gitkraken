@@ -1,1 +1,2 @@
 fungsi 1 dilanjutkan
+fungsi 2
