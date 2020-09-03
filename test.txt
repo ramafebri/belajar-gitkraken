@@ -1,7 +1,3 @@
 a
 b
-<<<<<<< Updated upstream
 c
-=======
-d
->>>>>>> Stashed changes
