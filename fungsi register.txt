@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 register function
 
 perubahan 1
+=======
+register function
+>>>>>>> develope
